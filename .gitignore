@@ -11,3 +11,7 @@
 *.user
 *.keystore
 *.jks
+
+# Local Unity world authoring and verification tools
+/Assets/WorldMapBuild/
+/Assets/WorldMapBuild.meta
